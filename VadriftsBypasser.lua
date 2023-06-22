@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Vadrifts Bypasser is currently being worked on by the owner. You may contact him with this email: vadrifts@gmail.com")
+game.Players.LocalPlayer:Kick("Vadrifts Bypasser has now been released. Please join discord.gg/vadrifts in order to obtain it.")
