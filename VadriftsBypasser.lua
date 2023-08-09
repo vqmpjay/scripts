@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Vadrifts Bypasser has now been released. Please join discord.gg/vadrifts in order to obtain it.")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xulaari/Vastral/main/Vastral.lua"))()
